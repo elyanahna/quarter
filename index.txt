@@ -6,7 +6,7 @@
 <body>
 <ul class="ul">
   <li><a class="active" href="https://elyanahna.github.io/1stquarter/">QUARTER 1</a></li>
-  <li><a class="active" href="eport.html">QUARTER 2</a></li>
+  <li><a class="active" href="https://elyanahna.github.io/ICT-2ND-PORTFOLIO/">QUARTER 2</a></li>
   <li><a class="active">QUARTER 3</a></li>
   <li><a class="active">QUARTER 4</a></li>
 </ul>
